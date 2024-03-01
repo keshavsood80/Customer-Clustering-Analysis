@@ -44,6 +44,23 @@ Data Source : https://github.com/keshavsood80/Customer-Clustering-Analysis/blob/
 | Occupation |	categorical |	{0,1,2} |	Category of occupation of the customer -- 0	- unemployed / unskilled , 1	- skilled employee / official	, 2 -	management / self-employed / highly qualified employee / officer	|
 |Settlement size	| categorical |	{0,1,2}	| The size of the city that the customer lives in -- 0 - small city , 1 -	mid-sized city , 2 - big city |							
 
+## Agenda
+- Step 1: Import Libraries
+- Step 2: Import Dataset 
+- Step 3: Exploratory Data Analysis
+- Step 4: Univariate Data Analysis
+- Step 5: Bi-variate Analysis
+- Step 6: Data Preparation
+- Step 7: Modelling
+- Step 8: Evaluate Performance
+
+## Models used
+- Hierarchical Clustering
+- K-Means Clustering
+
+# Solution
+- **jupyter Notebook : [Customer_Clustering_Analysis.ipynb](https://github.com/keshavsood80/Customer-Clustering-Analysis/blob/main/Customer%20Clustering%20Analysis.ipynb)**
+- **Please Go through [Customer_Clustering_HLDX.pptx](https://github.com/keshavsood80/Customer-Clustering-Analysis/blob/main/Customer%20Clustering%20HLDX.pptx) for more info.**
 
 
 ## Analysis of Clusters
