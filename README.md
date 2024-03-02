@@ -1,4 +1,4 @@
-# Customer-Clustering-Analysis
+# Customer Clustering Analysis
 Developed a model for one of the retail store in Boulder to get sense of customers and classify them into different cohorts/groups so that suitable marketing strategies can be used for individual cohort.
 
 ![image](https://github.com/keshavsood80/Customer-Clustering-Analysis/assets/139059600/ac49072a-6f00-4c24-8d9a-dd1f689d0fc9)
